@@ -10,5 +10,5 @@ Some Good default pages to read
 ### Guides
 The following articles/answers/courses helped me understand and build whatever I did:
 
-* [Documenting Spring Data Rest APIs with Swagger and Springfox](https://app.pluralsight.com/library/courses/spring-framework-documenting-spring-data-rest-apis-swagger-springfox/table-of-contents)
+* [Pluralsight Course - Documenting Spring Data Rest APIs with Swagger and Springfox](https://app.pluralsight.com/library/courses/spring-framework-documenting-spring-data-rest-apis-swagger-springfox/table-of-contents)
 * [Springfox Reference Documentation](https://springfox.github.io/springfox/docs/snapshot/)
