@@ -1,1 +1,5 @@
-package com.aashirwad.swagger;
+package com.aashirwad.swagger.repository;
+
+public class ProductRepository {
+  
+}
