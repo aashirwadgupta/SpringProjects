@@ -32,3 +32,9 @@ at the configuration class level in the @Import attributes we add BeanValidatorP
 public class SwaggerApplicationConfig {
 }
 ```
+
+**PathSelectors** By using this we can restrict certain APIs to appear in our documentation.
+
+**Swagger Groups** can be created by using groupName property on Docket bean in the config file. 
+Change the path selector accordingly and modify the apiInfo method to getApiInfo for a particular
+version. 
