@@ -30,3 +30,7 @@ The following guides illustrate how to use some features concretely:
     - Simplified Server side logic, no header, no uri modification, no fuss.
     - Whenever you wish to change the functionality just add one of the above versioninig strategy
     and let the previous/old be the default versioning strategy.
+    
+    ##### Now to implement the URI versioning across all APIs
+    `@BasePathAwareController` is need to be added in the controller classes to be aware about the added 
+    base path using the property `spring.data.rest.base-path`
