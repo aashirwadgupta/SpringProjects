@@ -34,3 +34,5 @@ The following guides illustrate how to use some features concretely:
     ##### Now to implement the URI versioning across all APIs
     `@BasePathAwareController` is need to be added in the controller classes to be aware about the added 
     base path using the property `spring.data.rest.base-path`
+    
+    A Load balancer or proxy server can be used to redirect the request based on the version requested.
